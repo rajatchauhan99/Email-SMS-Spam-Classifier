@@ -1,7 +1,5 @@
 nltk==3.6.3
-pickle
 stopwords
 string
 PorterStemmer
-pandas 
-numpy
+
