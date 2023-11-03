@@ -1,3 +1,4 @@
 nltk==3.6.3
 pickle
 string
+nltk.download
