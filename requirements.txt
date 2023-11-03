@@ -1,4 +1,7 @@
 nltk==3.6.3
 pickle
+stopwords
 string
-nltk.download
+PorterStemmer
+pandas 
+numpy
