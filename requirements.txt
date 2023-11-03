@@ -1,4 +1,4 @@
 nltk==3.6.3
 stopwords
-pickle
+
 
